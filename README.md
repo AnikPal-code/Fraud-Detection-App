@@ -1,3 +1,5 @@
+This is the streamlit application demo: https://fraud-detection-app-dx2suzndewdgfzgtpfqrwc.streamlit.app/
+
 🕵️‍♂️ Fraud Detection using Machine Learning
 This project aims to detect fraudulent transactions using various machine learning classification algorithms. The goal is to compare multiple models and select the best-performing one based on accuracy, using a dataset from Kaggle.
 🕵️‍♂️ Fraud Detection using Machine Learning
